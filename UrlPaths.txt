@@ -1,0 +1,5 @@
+http://localhost:8000/api/Books
+
+http://localhost:8000/api/books?genre=Science%20Fiction
+
+http://localhost:8000/api/books?author=Lev%20Nikolayevich%20Tolstoy
